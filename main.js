@@ -28,4 +28,4 @@ client.on("messageCreate", (messsge) => {
 	}
 });
 */
-client.login(client.config.app.token);
+client.login(process.env.token);
