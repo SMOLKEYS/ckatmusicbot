@@ -1,7 +1,6 @@
 module.exports = {
     app: {
         px: '.',
-        token: 'process.env.token',
         playing: 'the large l'
     },
 
